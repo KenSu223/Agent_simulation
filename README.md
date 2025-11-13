@@ -38,7 +38,7 @@ In terms of the peak number of infected individuals and time to peak, without so
 
 ### Interpretation
 
-This indicates that social distancing measures effectively reduce the peak number of infections and delay the time to peak, which can help alleviate pressure on healthcare systems during a pandemic. This is also reflected by a flatter number of infected curve, as seen in the plots above. 
+This indicates that social distancing measures effectively reduce the peak number of infections and delay the time to peak, which can help alleviate pressure on healthcare systems during a pandemic. This is also reflected by a flatter number of infected curve.
 
 However, the time steps taken to reach a neutralized state (where infections drop to zero and no new infections occur) appears to be longer with social distancing, as the disease both spreads and ends more slowly through the population.
 
